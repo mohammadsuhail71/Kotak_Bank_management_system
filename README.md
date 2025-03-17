@@ -1,12 +1,14 @@
 # Kotak_Bank_management_system
 
 Introduction 
+
         The Kotak Bank Database System is a robust and scalable MySQL-based database 
         designed to manage banking operations efficiently. It includes tables for customers, 
         accounts, branches, employees, transactions, and loans, enabling seamless data 
         management and analytics for a banking environment. 
 
 Project Purpose 
+
         The purpose of this project is to: 
         1. Centralize Banking Data: Store and manage customer, account, and 
         transaction data in a structured manner. 
@@ -16,6 +18,7 @@ Project Purpose
         future expansions. 
 
 Features 
+
         1. Comprehensive Schema: 
             o 6+ tables: Customers, Accounts, Branches, Employees, Transactions, and Loans. 
             o Relationships between tables (e.g., customer-account, account-transaction). 
@@ -140,6 +143,7 @@ Sample Queries
         COUNT(DISTINCT a.account_type) = 3; 
 
 Future Scope 
+
         1. Integration with Python: Use Python for advanced analytics and visualization. 
         2. Dashboard Development: Build a web-based dashboard for real-time insights. 
         3. NoSQL Integration: Add support for unstructured data (e.g., customer feedback). 
@@ -147,12 +151,14 @@ Future Scope
         5. Security Enhancements: Implement encryption for sensitive data. 
 
 How to Contribute 
+
         1. Star the Repo: Show your support by starring the repository. 
         2. Fork the Project: Create your own copy to experiment with. 
         3. Submit PRs: Contribute new features, bug fixes, or documentation improvements. 
         4. Report Issues: Help improve the project by reporting bugs or suggesting enhancements. 
 
 Conclusion 
+
         The Kotak Bank Database System is a comprehensive and scalable solution for 
         managing banking operations. It provides a solid foundation for data management, 
         analytics, and future expansions. Contributions and feedback are welcome to make this 
